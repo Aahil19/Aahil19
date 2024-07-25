@@ -3,10 +3,10 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #3498db; text-shadow: 2px 2px #2c3e50; font-size: 3em; margin-bottom: 20px;">Hello Coders! I am Aahil Yusuf</h1>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong>Freelancing & Assisting my father at his shop.
-<br><br> Loving : 🎧💪  </strong></p>
+<p><strong>Studying at University and doing my own thing.
+<br><br> Love : 🎧💪  </strong></p>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">💻 Tech Stack:</h2>
 <p align="left">
     <strong>Languages:</strong><br>
     <a href="https://www.python.org/" target="_blank"> 
@@ -74,7 +74,7 @@
 - :trophy: Among the winners in a cybersecurity hackathon
 - :zap: Fun fact: I love working on fitness and listening to music <br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">🌐 Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AahilYusuf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aahil-yusuf/)](https://www.linkedin.com/in/aahil-yusuf) [![Instagram Badge](https://img.shields.io/badge/-@aahi2.0-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aahi2.0)](https://www.instagram.com/aahi2.0)
 
