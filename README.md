@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about AI and coding languages**
 
-- 👨‍💻 All of my projects are available at [(Not available yet)]((Not available yet))
+- 👨‍💻 All of my projects are available at (Pending PortFolio)
 
 - 📫 How to reach me **www.linkedin.com/in/aahil-yusuf**
 
