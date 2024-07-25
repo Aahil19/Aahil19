@@ -80,10 +80,10 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/aahil-yusuf/">
-        <img src="https://img.shields.io/badge/-AahilYusuf-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/aahi2.0">
-        <img src="https://img.shields.io/badge/-@aahi2.0-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+        <img src="https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
 </p>
 
