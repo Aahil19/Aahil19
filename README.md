@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <p><strong>Freelancing & Assisting my father at his shop.
-<br><br> Vibing to : 🎧  </strong></p>
+<br><br> Loving : 🎧💪  </strong></p>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
@@ -66,13 +66,13 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a sohp
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :computer: I'm a sophomore Computer Student at University
+- :hourglass_flowing_sand: Exploring GitHub and programming languages
+- :rocket: Always ready to learn from experienced developers
+- :man_technologist: AI and mathematics enthusiast
+- :dart: Life Hack: "Change your mindset, change your life"
+- :trophy: Among the winners in a cybersecurity hackathon
+- :zap: Fun fact: I love working on fitness and listening to music <br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
