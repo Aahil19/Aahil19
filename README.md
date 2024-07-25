@@ -66,15 +66,26 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a sophomore Computer Student at University
-- :hourglass_flowing_sand: Exploring GitHub and programming languages
-- :rocket: Always ready to learn from experienced developers
-- :man_technologist: AI and mathematics enthusiast
-- :dart: Life Hack: "Change your mindset, change your life"
-- :trophy: Among the winners in a cybersecurity hackathon
-- :zap: Fun fact: I love working on fitness and listening to music <br>
+<p align="left">
+    :computer: I'm a sophomore Computer Science Student at University<br>
+    :hourglass_flowing_sand: Exploring GitHub and programming languages<br>
+    :rocket: Always ready to learn from experienced developers<br>
+    :man_technologist: AI and mathematics enthusiast<br>
+    :dart: Life Hack: "Change your mindset, change your life"<br>
+    :trophy: Among the winners in a cybersecurity hackathon<br>
+    :zap: Fun fact: I love working on fitness and listening to music
+</p>
 
 <h2 align="left">🌐 Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AahilYusuf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aahil-yusuf/)](https://www.linkedin.com/in/aahil-yusuf) [![Instagram Badge](https://img.shields.io/badge/-@aahi2.0-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aahi2.0)](https://www.instagram.com/aahi2.0)
+<p align="left">
+    <a href="https://www.linkedin.com/in/aahil-yusuf/">
+        <img src="https://img.shields.io/badge/-AahilYusuf-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/aahi2.0">
+        <img src="https://img.shields.io/badge/-@aahi2.0-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+</p>
+
+
 
